@@ -10,3 +10,5 @@ services or websites that do not only affect legitimate users and disrupt the us
 the services.it has been used for political battles which has also give risen to deep 
 fakes , bots etc. To counter such activity , we hope it to be solved to some extent 
 from this project.
+
+https://drive.google.com/drive/folders/1PWk_G7_S96pVMsTx44PKAShjCQLWRVAC?usp=sharing
